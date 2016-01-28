@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Guitar]]></title>
+        <description><![CDATA[Guitar]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jan 2016 18:20:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The best solidbody electric guitars of 2014]]></title>
+            <description><![CDATA[<article><h1>The best solidbody electric guitars of 2014</h1><p>It might not have been a classic year for the solidbody electric guitar, but these four would rise to the top of any class... All of the gear here was reviewed in Guitarist magazine from January 2014 onwards, representing outstanding performance, build quality and value. First on the list, it's the Tom Anderson Raven...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/febe93611edfb7ae2fc03a13ace7fba5e4f54bae.jpg"></article>]]></description>
+            <link>http://www.musicradar.com/news/guitars/the-best-solidbody-electric-guitars-of-2014-612218?utm_medium=email&amp;utm_source=flipboard</link>
+            <guid isPermaLink="false">33b42f23-d3bc-453d-a016-da81bfc89480</guid>
+            <pubDate>Thu, 28 Jan 2016 18:19:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
